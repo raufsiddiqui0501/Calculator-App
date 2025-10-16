@@ -21,4 +21,9 @@ HTML5 – Structure
 
 CSS3 – Styling and layout
 
-JavaScript (ES6) – Logic and interactivity
+JavaScript (ES6) – Logic and interactivity.
+
+👨‍💻 Author
+
+Rufi Ahmed
+💜 Frontend Developer | JavaScript Enthusiast.
